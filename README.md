@@ -1,7 +1,27 @@
-## Hi there 👋
+<h1>Hi, I'm Musharraf Abdulkareem </br> <a href="https://github.com/joshmadakor1">A Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/MusharrafAbdulkareem/"> </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>SIEM </b>
+  - [SIEM using Wazuh](https://github.com/)
+- <b>Linux</b>
+  - [Linux Shell](https://github.com/) <b><i>(Command Line Interface tool)</b></i>
+
+ 
+<h2>📺 Certifications</h2>
+
+- <b> [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/verify/E7GHDLZHU2CJ) </b>
+- <b> [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/9UN1UVHK1X2A) </b>
+- 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="MusharrafAbdulkareem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/musharrafabdulkareem/
 
 <!--
-**MusharrafAbdulkareem/MusharrafAbdulkareem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
