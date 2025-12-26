@@ -6,6 +6,8 @@
   - [SIEM using Wazuh](https://github.com/)
 - <b>Linux</b>
   - [Linux Shell](https://github.com/) <b><i>(Command Line Interface tool)</b></i>
+- <b>Active Directory </b>
+  - [Active directory](  https://github.com/MusharrafAbdulkareem/Active-Directory/tree/main)
 
  
 <h2>📺 Certifications</h2>
