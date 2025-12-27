@@ -35,7 +35,7 @@ Uninstall GIMP using Windows Powershell
 <p align="center">
 Installing Sublime Text: </br>
 <img src="Installing Sublime Text.png" height="80%" width="80%" alt="Installing Sublime Text"><br />
-<img src="Installing Sublime Text(02)" height="80%" width="80%" alt="Installing Sublime Text"><br />
+<img src="Installing Sublime Text cont" height="80%" width="80%" alt="Installing Sublime Text cont"><br />
 <br />
 First, you'll install the Sublime Text editor. Using Google Chrome, visit 
 https://www.sublimetext.com to download the latest version of Sublime Text. Once you have downloaded the file, open your Downloads folder under C:\Users\qwiklabs\Downloads. 
