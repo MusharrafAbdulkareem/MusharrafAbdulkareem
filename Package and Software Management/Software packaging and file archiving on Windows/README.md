@@ -33,13 +33,9 @@ Uninstall GIMP using Windows Powershell
 <h2>Installing and uninstalling software using Windows GUI:</h2>
 
 <p align="center">
-Installing and uninstalling software using Windows GUI: </br>
-<img src="pic_trulli.jpg" alt="Italian Trulli">
-<br />
-<br />
 Installing Sublime Text: </br>
-<img src="Installing Sublime Text.png" alt="Installing Sublime Text"><br />
-<img src="Installing Sublime Text(02)" alt="Installing Sublime Text"><br />
+<img src="Installing Sublime Text.png" height="80%" width="80%" alt="Installing Sublime Text"><br />
+<img src="Installing Sublime Text cont" height="80%" width="80%" alt="Installing Sublime Text cont"><br />
 <br />
 First, you'll install the Sublime Text editor. Using Google Chrome, visit 
 https://www.sublimetext.com to download the latest version of Sublime Text. Once you have downloaded the file, open your Downloads folder under C:\Users\qwiklabs\Downloads. 
@@ -47,20 +43,25 @@ You should see the installer, called sublime_text_build_4126_x64_setup.exe. Doub
 <b>sudo dpkg -i /home/qwiklab/downloads/sublime-text_build-3211_amd64.deb  </b>
 <br />
 <br /> 
-Sublime Text Successfully Installed: <br/>Now, click on the Install button. When the installation is finished, click the Search icon in the bottom-left of the taskbar, 
-and start typing “Sublime Text” to search (as shown below).<br />
-<img src="Successfully installed Sublime Text.png" alt="Successfully installed Sublime Text">
+<br />
+Sublime Text Successfully Installed: <br/>
+<img src="Successfully installed Sublime Text.png" height="80%" width="80%" alt="Successfully installed Sublime Text"> <br />
+Now, click on the Install button. When the installation is finished, click the Search icon in the bottom-left of the taskbar, 
+and start typing “Sublime Text” to search (as shown below).
+<br />
 <br />
 <br />
 Extracting using 7-Zip: <br/>
-<img src="Extracting file.png" alt="Extracting file using 7Zip"/><br/>
-<img src="Extracted files.png" alt="Extracted files result"/>
+<img src="Extracting file.png" height="80%" width="80%" alt="Extracting file using 7Zip"/><br/>
+<img src="Extracted files.png" height="80%" width="80%" alt="Extracted files result"/>
+<br />
 <br />
 <br />
 Compressing and archiving a file:  <br/>
+<img src="Files to compress.png" height="80%" width="80%" alt="Files to compress"/><br />
 Now you'll perform the other half of the process, bundling multiple files into a .zip archive. 
-Navigate to C:\Users\Qwiklab\Documents and find the three files named, Earth, Mercury, and Venus:<br />
-<img src="Files to compress.png" alt="Files to compress"/>
+Navigate to C:\Users\Qwiklab\Documents and find the three files named, Earth, Mercury, and Venus
+<br />
 <br />
 <br />
 Confirm your selection:  <br/>
