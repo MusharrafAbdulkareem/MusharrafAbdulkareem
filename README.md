@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Package and Software Management </b>
+  - [Software packaging and file archiving on Windows](https://github.com/)
+  - [Software packaging and file archiving on Linux](https://github.com/)
 - <b>SIEM </b>
   - [SIEM using Wazuh](https://github.com/)
 - <b>Linux</b>
