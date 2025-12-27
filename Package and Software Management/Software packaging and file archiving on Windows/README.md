@@ -43,9 +43,12 @@ You should see the installer, called sublime_text_build_4126_x64_setup.exe. Doub
 <b>sudo dpkg -i /home/qwiklab/downloads/sublime-text_build-3211_amd64.deb  </b>
 <br />
 <br /> 
-Sublime Text Successfully Installed: <br/>Now, click on the Install button. When the installation is finished, click the Search icon in the bottom-left of the taskbar, 
-and start typing “Sublime Text” to search (as shown below).<br />
-<img src="Successfully installed Sublime Text.png" height="80%" width="80%" alt="Successfully installed Sublime Text">
+<br />
+Sublime Text Successfully Installed: <br/>
+<img src="Successfully installed Sublime Text.png" height="80%" width="80%" alt="Successfully installed Sublime Text"> <br />
+Now, click on the Install button. When the installation is finished, click the Search icon in the bottom-left of the taskbar, 
+and start typing “Sublime Text” to search (as shown below).
+<br />
 <br />
 <br />
 Extracting using 7-Zip: <br/>
@@ -53,10 +56,12 @@ Extracting using 7-Zip: <br/>
 <img src="Extracted files.png" height="80%" width="80%" alt="Extracted files result"/>
 <br />
 <br />
+<br />
 Compressing and archiving a file:  <br/>
+<img src="Files to compress.png" height="80%" width="80%" alt="Files to compress"/><br />
 Now you'll perform the other half of the process, bundling multiple files into a .zip archive. 
-Navigate to C:\Users\Qwiklab\Documents and find the three files named, Earth, Mercury, and Venus:<br />
-<img src="Files to compress.png" height="80%" width="80%" alt="Files to compress"/>
+Navigate to C:\Users\Qwiklab\Documents and find the three files named, Earth, Mercury, and Venus
+<br />
 <br />
 <br />
 Confirm your selection:  <br/>
