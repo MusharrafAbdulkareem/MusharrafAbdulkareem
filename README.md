@@ -5,6 +5,9 @@
 - <b>Package and Software Management </b>
   - [Software packaging and file archiving on Windows](https://github.com/MusharrafAbdulkareem/MusharrafAbdulkareem/tree/main/Package%20and%20Software%20Management/Software%20packaging%20and%20file%20archiving%20on%20Windows)
   - [Software packaging and file archiving on Linux](https://github.com/)
+- <b>Filesystems </b>
+  - [Partitioning and Formatting a Disk Drive in Windows](https://github.com/)
+  - [Partitioning and Formatting a Disk Drive in Linux](https)
 - <b>SIEM </b>
   - [SIEM using Wazuh](https://github.com/)
 - <b>Linux</b>
