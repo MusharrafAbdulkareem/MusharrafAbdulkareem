@@ -26,7 +26,7 @@ Select Administrative tool and double click on Computer Management:  <br/>
 <br />
 <br />
 Select Disk Management and bring Disk 1 online: <br/>
-<img src="Disk Management.png" height="80%" width="80%" alt="Disk Management"/> <br />
+<img src="Disk Management.png" height="80%" width="80%" alt="Disk Management"/> <br /><br />
 <img src="OFFLINE DISK.png" height="80%" width="80%" alt="OFFLINE DISK"/>
 <br />
 <br />
@@ -34,25 +34,32 @@ Disk 1 is now online:  <br/>
 <img src="Computer Management ONLINE DISK.png" height="80%" width="80%" alt="Disk 1 Online"/>
 <br />
 <br />
-Shrink Volume (D:) to create space for new partition(Enter 20,480MB to partition the disk into two partitions of 30GB and 20GB each):  <br/>
-<img src="Shrink Volume DISK D.png" height="80%" width="80%" alt="Shrink Volume DISK D"/> <br />
-<img src="Volume Shrinked.png" height="80%" width="80%" alt="Shrinked Volume DISK D"/>
+Shrink Volume (D:) to create space for new partition(Enter 20,480MB to partition the disk into two partitions of 30GB and 20GB each):  <br/><br />
+<img src="Shrink Volume DISK D.png" height="80%" width="80%" alt="Shrink Volume DISK D"/> <br /><br />
+<img src="Volume Shrinked .png" height="80%" width="80%" alt="Shrinked Volume DISK D"/>
 <br />
 <br />
 Creating a new partition with the space left on the storage:  <br/>
-<img src="Creating new partition.png" height="80%" width="80%" alt="Creating new partition"/> <br />
-<img src="Creating new partition 02.png" height="80%" width="80%" alt="Creating new partition"/> <br />
-<img src="NEW partition of storage left.png" height="80%" width="80%" alt="Partition E selection with reamaining storage space"/> <br />
+<img src="Creating new partition.png" height="80%" width="80%" alt="Creating new partition"/> <br /><br />
+<img src="Creating new partition 02.png" height="80%" width="80%" alt="Creating new partition"/> <br /><br />
+<img src="NEW partition of storage left.png" height="80%" width="80%" alt="Partition E selection with reamaining storage space"/> <br /><br />
 <img src="NEW DRIVE Finished.png" height="80%" width="80%" alt="NEW DRIVE and formatted NTFS Filesystem Successful"/> <br />
 <br />
 <br />
 New volume (Volume E:) successfully created: <br />
 <img src="New Volume completed.png" height="80%" width="80%" alt="new volume succesfully created"/> <br />
 </p>
+<br />
+<br />
+<br />
+
+
+
 
 <h2>Description</h2>
 Formatting a Partition with existing Filesystem(NTFS) with a new Filesystem (FAT32)
 <br />
+
 
 <p align="center">
 Formatting Volume E: <br/>
@@ -60,8 +67,8 @@ Formatting Volume E: <br/>
 <br />
 <br />
 Formatted to new Filesystem(FAT32): <br/>
-<img src="Formatted to FAT32.png" height="80%" width="80%" alt="Formatted to FAT32"/> <br />
-<img src="Formatted to FAT32 02.png" height="80%" width="80%" alt="Formatted to FAT32 02"/> <br />
+<img src="Formatted to FAT32.png" height="80%" width="80%" alt="Formatted to FAT32"/> <br /><br />
+<img src="Formatted to FAT32 02.png" height="80%" width="80%" alt="Formatted to FAT32 02"/> 
 <br />
 <br />
 Volume succesfully formatted to FAT32 Filesystem: <br/>
@@ -78,10 +85,4 @@ Volume succesfully formatted to FAT32 Filesystem: <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
-</br>
-</br>
-<img width="1022" height="366" alt="OBERZ" src="https://github.com/user-attachments/assets/53bba908-5c18-49bf-81ed-de16c411368e" />
-</br>
-</br>
-<img src="OBERZ.png" alt="Italian Trulli">
 
