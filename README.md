@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Package and Software Management </b>
-  - [Software packaging and file archiving on Windows](https://github.com/MusharrafAbdulkareem/MusharrafAbdulkareem/tree/main/Package%20and%20Software%20Management/Software%20packaging%20and%20file%20archiving%20on%20Windows)
+  - [Software packaging and file archiving on Windows](https://github.com/MusharrafAbdulkareem/MusharrafAbdulkareem/blob/main/Package%20and%20Software%20Management/Software%20packaging%20and%20file%20archiving%20on%20Windows/README.md)
   - [Software packaging and file archiving on Linux](https://github.com/)
 - <b>Filesystems </b>
   - [Partitioning and Formatting a Disk Drive in Windows](https://github.com/MusharrafAbdulkareem/MusharrafAbdulkareem/blob/main/Filesystems/Partitioning%20and%20formatting%20a%20disk%20drive%20in%20Windows/README.md)
