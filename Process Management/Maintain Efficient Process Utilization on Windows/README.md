@@ -4,7 +4,7 @@
 <h2>Description</h2>
 This project demonstrates practical skills in monitoring and managing system processes on a Windows operating system. The focus is on maintaining efficient process utilization, a core responsibility of an IT Support Specialist and System Administrator.<br/> <br/>
 
-Using a Windows virtual machine, the project involves collecting real-time process information, identifying inefficient or unnecessary processes, and safely terminating them using both graphical and command-line tools. The lab emphasizes understanding how system resources are consumed and how improper process management can impact system performance.<br/> <br/>
+Using a Windows virtual machine, the project involves collecting real-time process information, identifying inefficient or unnecessary processes, and safely terminating them using both graphical and command-line tools. The lab emphasizes understanding how system resources are consumed and how improper process management can impact system performance.<br/>
 
 The project also introduces the use of Windows PowerShell for advanced process control, highlighting the importance of automation and command-line proficiency in modern IT environments.
 <br />
@@ -26,7 +26,7 @@ The project also introduces the use of Windows PowerShell for advanced process c
 
 - <b>Terminate multiple processes simultaneously using PowerShell commands </b> 
 
-Improve overall system efficiency through proper process management </b> 
+- <b>Improve overall system efficiency through proper process management </b> 
 
 
 <h2>Program walk-through:</h2>
