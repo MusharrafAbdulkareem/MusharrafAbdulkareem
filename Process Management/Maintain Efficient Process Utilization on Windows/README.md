@@ -2,55 +2,62 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project demonstrates practical skills in monitoring and managing system processes on a Windows operating system. The focus is on maintaining efficient process utilization, a core responsibility of an IT Support Specialist and System Administrator.<br/> <br/>
+
+Using a Windows virtual machine, the project involves collecting real-time process information, identifying inefficient or unnecessary processes, and safely terminating them using both graphical and command-line tools. The lab emphasizes understanding how system resources are consumed and how improper process management can impact system performance.<br/> <br/>
+
+The project also introduces the use of Windows PowerShell for advanced process control, highlighting the importance of automation and command-line proficiency in modern IT environments.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools Used</h2>
 
 - <b>Task Manager/ Task Viewer</b>
 - <b>PowerShell</b> 
 
 
-<h2>Environments Used </h2>
+<h2> Objectives </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b> Monitor and analyze running processes on a Windows system </b>
 
-<h2>What to achieve </h2>
+- <b>Identify processes that negatively impact system performance </b> 
 
-- <b>Collect process information using the Task Viewer.</b> 
-- <b>Terminate a specific process using Windows PowerShell.</b> 
-- <b>Terminate multiple processes using Windows PowerShell.</b> 
+- <b>Terminate individual processes using Windows PowerShell </b> 
+
+- <b>Terminate multiple processes simultaneously using PowerShell commands </b> 
+
+Improve overall system efficiency through proper process management </b> 
+
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch PowerShell with Administrative access: <br/>
+<img src="Administrative PowerShell.png" height="80%" width="80%" alt="PowerShell using Administrative permission"><br />
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+List of processes using the [Get-Process] command in PowerShell Command Line Interface:  <br/>
+<img src="List of Processes.png" height="80%" width="80%" alt="List of Processes"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Searching for specific process, "totally_not_malicious": <br/>
+<img src="Specific process search.png" height="80%" width="80%" alt="Specific process search"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Terminating process "totally_not_malicious":  <br/>
+<img src="Process terminated.png" height="80%" width="80%" alt="Process terminated"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verifying terminating process "totally_not_malicious":  <br/>
+<img src="Process verification.png" height="80%" width="80%" alt="Process verification"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Searching and termination of multiple Processes "explorer" process and all processes with "*razzle*:  <br/>
+<img src="Multiple Process termination.png" height="80%" width="80%" alt="Multiple Process termination"/><br/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verifying if the processes have been sucessfully terminated:  <br/>
+<img src="Multiple processes verified.png" height="80%" width="80%" alt="Multiple processes verified"/>
 </p>
 
 <!--
