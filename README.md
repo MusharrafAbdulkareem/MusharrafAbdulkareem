@@ -21,7 +21,7 @@
 
 - <b> [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/verify/E7GHDLZHU2CJ) </b>
 - <b> [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/9UN1UVHK1X2A) </b>
-- 
+- <b> [Operating Systems and You: Becoming a Power User] (https://www.coursera.org/account/accomplishments/verify/6YE28SCCYJE5) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
