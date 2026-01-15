@@ -69,9 +69,3 @@ Verifying if the processes have been sucessfully terminated:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
-</br>
-</br>
-<img width="1022" height="366" alt="OBERZ" src="https://github.com/user-attachments/assets/53bba908-5c18-49bf-81ed-de16c411368e" />
-</br>
-</br>
-<img src="OBERZ.png" alt="Italian Trulli">
