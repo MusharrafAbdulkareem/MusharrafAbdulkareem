@@ -11,7 +11,7 @@
 - <b>Process Management </b>
   - [Maintain Efficient Process Utilization on Windows](https://github.com/MusharrafAbdulkareem/MusharrafAbdulkareem/blob/main/Process%20Management/Maintain%20Efficient%20Process%20Utilization%20on%20Windows/README.md)
 - <b>Operating Systems in Practice</b>
-  - [Windows](https://github.com/) (Command Line Interface tool)
+  - [Windows](https://github.com/) 
   - [Maintain Efficient Process Utilization on Linux](https)
 - <b>Linux</b>
   - [Linux Shell](https://github.com/) <b><i>(Command Line Interface tool)</b></i>
